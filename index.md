@@ -3,10 +3,11 @@ layout: default
 title: Home
 ---
 
-<header>
-<h1>This is Phantom, a free, fully responsive site<br />
-template designed by <a href="http://html5up.net">HTML5 UP</a>.</h1>
-<p>Etiam quis viverra lorem, in semper lorem. Sed nisl arcu euismod sit amet nisi euismod sed cursus arcu elementum ipsum arcu vivamus quis venenatis orci lorem ipsum et magna feugiat veroeros aliquam. Lorem ipsum dolor sit amet nullam dolore.</p>
+<header><br/><br/>
+<h1>Hi there! I'm <a href="/about">Aim</a>.</h1>
+<p>I'm currently an undergraduate student studying Computer Engineering at the University of the Philippines Diliman. This blog is currently a work in progress but I'll be updating it with more side projects soon!</p>
 </header>
 
+<!---
 {% include tiles.html %}
+-->
